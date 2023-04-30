@@ -1,5 +1,2 @@
-# alx 
----
-## 0x11. C - printf team project
----
-### KARIM
+#0x11 alx
+
